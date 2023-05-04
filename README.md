@@ -1,7 +1,5 @@
 ### Project on Java + Selenide + TestNG
 
-
-
 ### In BaseTest:
 1. Open MainPage
 2. Scroll to product
@@ -12,4 +10,5 @@
 
 ### In BasketTest:
 1. Checking that product appears in the basket
-2. Checking that there is correct data in basket
+2. Checking that there is correct product title in basket
+3. Checking that there is correct product prce in basket

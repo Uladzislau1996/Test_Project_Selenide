@@ -33,6 +33,7 @@ public class BasketPage {
         });
     }
 
+
     public boolean checkProductTitle() {
         return step("check product title", () -> productTitle.is(Condition.text("Премиум поддержка Эвотор")));
     }
